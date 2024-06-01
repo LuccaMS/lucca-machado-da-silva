@@ -1,4 +1,4 @@
-# Desafio de Estágio em Dados - Itaú Unibanco
+# Desafio de Estágio em Dados -  Itaú Unibanco
 
 ## Desenvolvedor: Lucca Machado da Silva
 
