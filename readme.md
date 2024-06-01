@@ -231,11 +231,11 @@ A tabela abaixo exibe os top 5 melhores compradores da categoria eletrônicos, c
 
 <div style="display: table-row; justify-content: space-around;">
     <div style="text-align: center;">
-        <h4>Tabela dos melhores compradores de livros</h4>
+        <h4>Tabela dos melhores compradores de eletronicos</h4>
         <img src="imgs\best_groups\eletronics\melhores_eletronicos_table.png">
     </div>
     <div style="text-align: center;">
-        <h4>Gráfico dos melhores compradores de livros</h4>
+        <h4>Gráfico dos melhores compradores de eletronicos</h4>
         <img src="imgs\best_groups\eletronics\melhores_eletronicos_grafico.png">
     </div>
 </div>
@@ -247,11 +247,11 @@ A tabela abaixo exibe os top 5 melhores compradores da categoria home, considera
 
 <div style="display: table-row; justify-content: space-around;">
     <div style="text-align: center;">
-        <h4>Tabela dos melhores compradores de livros</h4>
+        <h4>Tabela dos melhores compradores de home</h4>
         <img src="imgs\best_groups\home\melhores_home_table.png">
     </div>
     <div style="text-align: center;">
-        <h4>Gráfico dos melhores compradores de livros</h4>
+        <h4>Gráfico dos melhores compradores de home</h4>
         <img src="imgs\best_groups\home\melhores_home_grafico.png">
     </div>
 </div>
@@ -263,11 +263,11 @@ A tabela abaixo exibe os top 5 melhores compradores da categoria clothing, consi
 
 <div style="display: table-row; justify-content: space-around;">
     <div style="text-align: center;">
-        <h4>Tabela dos melhores compradores de livros</h4>
+        <h4>Tabela dos melhores compradores de clothing</h4>
         <img src="imgs\best_groups\clothing\melhores_clothing_table.png">
     </div>
     <div style="text-align: center;">
-        <h4>Gráfico dos melhores compradores de livros</h4>
+        <h4>Gráfico dos melhores compradores de clothing</h4>
         <img src="imgs\best_groups\clothing\melhores_clothing_grafico.png">
     </div>
 </div>
